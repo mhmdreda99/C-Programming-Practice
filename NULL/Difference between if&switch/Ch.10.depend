@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1549687539 source:d:\engineering planet\embedded systems\c\c_programs\ch.10\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1553253673 source:c:\users\m\desktop\ch.10\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+
+1550901621 c:\users\m\desktop\ch.10\main.h
+
+1550864722 c:\users\m\desktop\ch.10\test.h
+
+1550864877 c:\users\m\desktop\ch.10\rev.h
+

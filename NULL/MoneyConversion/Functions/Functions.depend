@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1549631042 source:d:\engineering planet\embedded systems\c(a)\c_programs\moneyconversion\functions\main.c
+	<stdio.h>
+	<stdlib.h>
+
