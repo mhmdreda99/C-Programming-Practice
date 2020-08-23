@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1595916034 source:d:\c programming\projects\course\test\main.c
+	<stdio.h>
+	<math.h>
+	<conio.h>
+	"stdio.h"
+
